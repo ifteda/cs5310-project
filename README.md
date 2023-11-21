@@ -1,5 +1,5 @@
 ## **Music Scene** - Audio-Based Object and Terrain Rendering
-What if the *world* was our audio visualizer? This project aims to create q multimedia, immersive listening experience in which objects in a three-dimensional world are rendered with intention, taking audio data into account when calculating transformations and lighting for each frame.
+What if the *world* was our audio visualizer? This project aims to create an immersive multimedia experience in which objects in a three-dimensional world are rendered with intention, taking audio data into account when calculating transformations and lighting for each frame.
 
 ## **Demo**: 
 [CS 5310 | Summer I 2023 | Final Project](https://youtu.be/Tc22eTMhvOU)
